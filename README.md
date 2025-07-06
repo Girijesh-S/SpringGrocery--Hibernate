@@ -12,12 +12,12 @@
 ## MYSQL Status Updated
   - USERS TABLE
 
-![User Registration](Mysql-Image%20Updated/Screenshot%202025-07-06%20092152.png)
+![User Registration](Mysql-Status%20Updated/Screenshot%202025-07-06%20092152.png)
 
   - ITEMS TABLE (Dynamic Update of Stocks available)
 
-![Items](Mysql-Image%20Updated/Screenshot%202025-07-06%20111116.png)
+![Items](Mysql-Status%20Updated/Screenshot%202025-07-06%20111116.png)
 
  - ORDER TABLE
 
-![Orders](Mysql-Image%20Updated/Screenshot%202025-07-06%20111553.png)
+![Orders](Mysql-Status%20Updated/Screenshot%202025-07-06%20111553.png)
