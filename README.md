@@ -3,7 +3,7 @@
 **SpringGrocery** is a Java console-based organic store simulation. It allows customers to register, browse organic products, place orders for home delivery, and now securely store data in a **MySQL database** using ORM Tool- Hibernate.
 
 ## 🌟 Features
- - Created a MAVEN project and added dependencies in pom.xml
+ - Created a MAVEN project and added dependencies in pom.xml [Used Hibernate 5 - Stable version]
  - Added a HibernateUtil.java (To establish SessionFactory, Sessions and Transactions)
  - Added hibernate.config.xml(To load the Hibernate Settings-Database Configuration) Set-Up Manager
  - Created a database named spring_grocery
